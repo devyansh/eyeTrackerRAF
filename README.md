@@ -4,7 +4,7 @@ Designing a new gaze interface for Robot Assisted Feeding
 ## Install Tobii dependencies
 https://developer.tobii.com/consumer-eye-trackers-interaction-library-getting-started/
 
-## Instal Tobii software to use the eye tracker
+## Instal Tobii software to use the eye tracker - Tobii 4C
 https://gaming.tobii.com/getstarted/?utm_source=developer.tobii.com
 
 
