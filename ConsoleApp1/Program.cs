@@ -22,6 +22,8 @@ namespace ConsoleApp1
             // only, we will store them in this variable.
             var fixationBeginTime = 0d;
 
+            Console.WriteLine("Hello");
+
             gazePointDataStream.Next += (o, datation) =>
             {
                 var fixationPointX = datation.Data.X;
